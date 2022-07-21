@@ -43,4 +43,3 @@ Users should be able to:
 ### What I learned
 
 With this project I learned more about the css model-box and how to use it so the user has a better experience regardless the device in used. 
-# product-preview-card-component
